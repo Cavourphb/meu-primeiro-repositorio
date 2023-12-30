@@ -1,2 +1,2 @@
 # meu-primeiro-repositorio
-Repo criado para primeira aula de git
+Repositorio criado para primeira aula de git
